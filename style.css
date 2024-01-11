@@ -1,0 +1,21 @@
+.container {
+    max-width: 600px;
+    background-color: antiquewhite;
+    margin: auto;
+    padding: 1px;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    max-width: 312;
+    margin: auto;
+    border-radius: 20%;
+}
